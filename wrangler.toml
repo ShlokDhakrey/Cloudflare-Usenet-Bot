@@ -1,0 +1,3 @@
+name = "google-drive-index"
+main = "src/main.js"
+compatibility_date = "2023-07-06"
