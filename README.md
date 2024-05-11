@@ -1,3 +1,4 @@
+<p align="center"><font color="red"><strong>⚠️ Disclaimer: This repository is incomplete and its usage is not yet recommended. ⚠️</strong></font></p>
  
 <h1 align="center"> Telegram Usenet Bot with Cloudflare Workers </h1>
 
